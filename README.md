@@ -33,6 +33,8 @@ ${\textsf{\color{#4d4e4f}true to me  ﹏}}$
 <img width="2048" height="345" alt="c4nxxf" src="https://github.com/user-attachments/assets/b5df2902-1d1d-4bf7-827b-f45da8b6b219" />
 
 ![78c72b872959cd8555b46832cbdee901 (2)](https://github.com/user-attachments/assets/a1ab24f7-2dfb-472f-86cd-4c4a0f708536)
+![ffb468a3c85f19b005028b7e7aa8239a](https://github.com/user-attachments/assets/b51d1617-5a7a-4fae-abf9-7ec425647193)
+
 ${\textsf{\color{#7a7a7a}bye!}}$ 
 
 
